@@ -85,6 +85,3 @@ const BASE_URL = "https://BaseUrl:PORT";
 
 ## Copyright
 This template is based on <a href="https://github.com/Gozargah/Marzban">Marzban Templates</a> design.
-```
-
-This single README.md file contains all the information you provided in the initial document, structured and formatted for clear readability and comprehension.
